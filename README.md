@@ -6,6 +6,8 @@ This project collects data for currency and they're rates provided by [Fixer.io]
 
 Infratsructure:
 =
+![image](https://github.com/AleksandrinaK/StatisticCollector/assets/164426460/41507f0a-2c13-46e1-a523-f1ac911c974c)
+
 
 Functionality:
 =
